@@ -12,3 +12,5 @@ Previous Projects:
 1. Example Project 1
 2. Example Project 2
 
+Thanks!
+
