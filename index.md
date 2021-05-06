@@ -8,9 +8,7 @@ I'm currently exploring and learning about:
 1. Example topic 1
 2. Example topic 2
 
-Previous Projects:
-1. Example Project 1
-2. Example Project 2
+Previous Projects can be [found at this link.](https://sean-geckler.github.io/pages/projects.html)
 
 Thanks!
 
